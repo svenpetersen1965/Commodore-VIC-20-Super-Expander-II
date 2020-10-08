@@ -1,0 +1,11 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"8";"100n";"CAP01";"C-2,5";"C1, C2, C3, C4, C5, C7, C8, C9";"";"";
+"1";"100u/16V";"C07/2,5";"C07/2,5";"C6";"";"";
+"3";"10k";"RES04";"R-10";"R1, R2, R3";"";"";
+"6";"2114";"2114";"DIL18";"IC3, IC4, IC5, IC6, IC7, IC8";"";"";
+"2";"COMBI-3P";"COMBI-3P";"COMBI-3P";"JP1, JP2";"";"";
+"1";"COMBI-3X2P";"COMBI-3X2P";"COMBI-3X2";"JP3";"";"";
+"1";"JTP-1130";"JTP-1130";"JTP-1130";"SW1";"";"";
+"2";"M27C512-DIP28";"M27C512-DIP28";"DIL28-6";"IC1, IC2";"";"";
+"1";"OPEN_SOURCE_HW";"OPEN_SOURCE_HW";"OPENHW";"U$2";"";"";
+"1";"VIC20_EXPANSIONPORT";"VIC20_EXPANSIONPORT";"VIC20_EXPANSION";"J1";"";"";
