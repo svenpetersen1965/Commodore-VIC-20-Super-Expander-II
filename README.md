@@ -6,3 +6,5 @@ This cartridge provides a 3k RAM expansion (required for Super Expander) and up 
 <img src="https://github.com/svenpetersen1965/Commodore-VIC-20-Super-Expander-II/blob/main/Rev.%200/pictures/6318_-_Super_Expander_II_PCB.JPG" width="300" alt="Super Expander II">
 
 Please also check my <a href="http://tech.guitarsite.de/vic-20_super_expanderii.html">website</a>.
+
+BOM value (full): 21.39€ (12.12.2020)
