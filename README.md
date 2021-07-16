@@ -8,3 +8,7 @@ This cartridge provides a 3k RAM expansion (required for Super Expander) and up 
 Please also check my <a href="http://tech.guitarsite.de/vic-20_super_expanderii.html">website</a>.
 
 BOM value (full): 21.39€ (12.12.2020)
+
+# Rev. 1
+
+Rev. 1 allows to select a software size of 4k and 8k. This allows to combine the super expander software with a cartridge that resides at $B000. This requires a multi cartridge box (like the VC-1020). It is for 100% compatibility to teh original. Also a new logo was introduced. 
